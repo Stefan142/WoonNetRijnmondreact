@@ -1,6 +1,6 @@
 # WoonNetRijnmondreact
 
-The script reacts to houses posted on the website of the Woonnet Rijnmond housing association in Rotterdam.
+The bot reacts to houses posted on the website of the Woonnet Rijnmond housing association in Rotterdam.
 
 ## Table of Contents
 - [Motivation](#motivation)
